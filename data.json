@@ -1,0 +1,21 @@
+{
+  "servers": {
+    "Test-bot": {
+      "name": "Test-bot",
+      "owner": "XERCA",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "",
+      "port": 8080,
+      "packages": [],
+      "pid": null,
+      "created": "2026-09-05T09:19:05.673290"
+    }
+  },
+  "users": {
+    "XERCA": {
+      "joined": "2026-09-05T09:18:28.250746",
+      "password_hash": "4e5e8a03458bb39ce00a4233b55e8621bf1e9e36da0de854250c84b9f96612cb"
+    }
+  }
+}
